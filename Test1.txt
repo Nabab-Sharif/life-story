@@ -3,3 +3,4 @@ I have done my SSC in 2012.
 I have completed my Diploma in CSE in 2016.
 I have completed my B.Sc in CSE in 2022.
 I will be continue my M.Sc in CSE.
+Now I am learning Javascript Programming Language
