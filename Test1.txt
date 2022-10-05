@@ -5,4 +5,4 @@ I have completed my B.Sc in CSE in 2022.
 I will be continue my M.Sc in CSE in 2023.
 Now I am learning javascript.
 Logo alignment is centered.
-this text is added from main branch.
+new line is added in feature branch
